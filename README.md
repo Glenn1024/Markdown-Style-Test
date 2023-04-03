@@ -1,5 +1,4 @@
 # Markdown样式测试
-Used to test the markdown style.
 用来测试你的markdown style. 其中涵盖了最常用的markdown语法, 可以根据这个来定制你的markdown样式.
 
 ---
