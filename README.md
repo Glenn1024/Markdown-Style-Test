@@ -90,7 +90,7 @@ Second Term
 
 ---
 
-### 代码 \<code>
+### 代码 \<pre> \<code>
 
 ```python
 print("Hello, world")
